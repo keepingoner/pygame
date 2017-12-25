@@ -1,0 +1,30 @@
+what is add 4+5?
+4
+2
+9
+8
+3
+what is add 5+8?
+8
+2
+1
+13
+4
+what is add 9-2?
+7
+3
+5
+8
+1
+waht is add 10-3?
+9
+8
+7
+6
+3
+what is add 7-3?
+5
+4
+3
+2
+2
